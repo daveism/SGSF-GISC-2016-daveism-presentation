@@ -1,2 +1,4 @@
 # SGSF-GISC-2016-daveism-presentation
-presenation for SGSF GISC 2016
+**Presentation for SGSF GISC 2016**
+
+http://daveism.github.io/SGSF-GISC-2016-daveism-presentation/
